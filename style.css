@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(2, 47, 68);
+}
+h2{
+    background-color: bisque;
+    font-style: italic ;
+}
+h1{
+   
+    font-size: 200%;
+    background-color: blanchedalmond;
+    box-sizing: border-box;
+    box-shadow: 0;
+}
+p{
+    color:blanchedalmond
+}
+ul{
+    color:blanchedalmond 
+}
